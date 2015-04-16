@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChewsV2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_restaurant_fragment">RestaurantFragment</string>
+    <string name="restaurant_textview">Restaurant</string>
+    <string name="title_activity_display_restaurants_fragment">DisplayRestaurantsFragment</string>
+    <string name="restauranteentry_textview">Restaurant Entry</string>
+    <string name="date_textview">Date Recorded</string>
+</resources>
